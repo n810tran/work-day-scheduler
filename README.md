@@ -18,4 +18,4 @@ The goal of this web application is to provide the user with a dynamic day sched
 
 # Preview
 
-![Screenshot](./images/screenshot-1.png)
+![Screenshot](./assets/images/screenshot.png)
